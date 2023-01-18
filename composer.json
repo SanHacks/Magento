@@ -20,6 +20,7 @@
     ],
     "psr-4": {
       "uafrica\\Customshipping\\": ""
-    }
+    },
+    "minimum-stability": "stable"
   }
 }
